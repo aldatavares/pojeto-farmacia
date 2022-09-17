@@ -16,7 +16,7 @@ function Medicamento(){
       <br />•Motivar cada integrante de nossa equipe, 
         despertando-lhe sobre a responsabilidade não somente individual como  
         o de participante de uma Equipe;satisfazendo as necessidades de nossos
-         clientes.
+         clientes!
         </h1> 
     </div>
   )
